@@ -1,13 +1,16 @@
 {
-  "name": "atom15",
+  "name": "0001",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "สล็อตแตกง่าย แจกโปรไม่อั้น ฝากถอนไม่มีขั้นต่ำ",
   "keywords": [
-    "syntax",
-    "theme"
+    "สล็อตแตกง่าย",
+    "pgslot",
+    "slot99",
+    "slot online",
+    "ฟรีสปิน"
   ],
-  "repository": "https://github.com/atom/atom15",
+  "repository": "https://github.com/atomicanother/atom15",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
